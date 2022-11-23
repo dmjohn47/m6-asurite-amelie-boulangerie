@@ -60,9 +60,10 @@ nav a {
     list-style-type: none;
     font-weight: bold;
 }
-.nav li:first-child a{
+nav li:first-child a {
     background-color:  #f28095;
 }
+a:hover{ background-color:  #f28095;}
 main{
     color: #542c1b;
     padding-bottom: 16px;
